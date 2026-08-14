@@ -1,0 +1,21 @@
+{
+  "name": "ai-road-damage-detection-system-backend",
+  "version": "1.0.0",
+  "description": "This is the Major Project for final year college student backend repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushGhole/ai-road-damage-detection-system-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AyushGhole/ai-road-damage-detection-system-backend/issues"
+  },
+  "homepage": "https://github.com/AyushGhole/ai-road-damage-detection-system-backend#readme"
+}
