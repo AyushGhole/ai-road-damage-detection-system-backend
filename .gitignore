@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 node_modules
 .next
 out
 .DS_Store
 *.log
+=======
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+>>>>>>> 3b852da8deb2ed9898a6b94b48c0cf84fbfae633

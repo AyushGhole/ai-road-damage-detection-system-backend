@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RoadGuard AI — GeoAI Road Defect Detection Dashboard
 
 A dark, futuristic frontend dashboard for an AI-powered road defect detection
@@ -32,3 +33,7 @@ Open http://localhost:3000.
   legend.
 - Swap the sample arrays in `lib/data.ts` for live data whenever a backend is
   ready — component props and shapes are already typed for it.
+=======
+# ai-road-damage-detection-system-backend
+This is the Major Project for final year college student backend repo
+>>>>>>> 3b852da8deb2ed9898a6b94b48c0cf84fbfae633
